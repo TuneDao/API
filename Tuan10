@@ -1,0 +1,27 @@
+[
+  {
+    "catId": 1,
+    "name": "Thu nghiem 1",
+    "image": "test1.png"
+  },
+  {
+    "catId": 2,
+    "name": "Thu nghiem 2",
+    "image": "test2.png"
+  },
+  {
+    "catId": 3,
+    "name": "Thu nghiem 3",
+    "image": "test3.png"
+  },
+  {
+    "catId": 4,
+    "name": "Thu nghiem 4",
+    "image": "test4.png"
+  },
+  {
+    "catId": 5,
+    "name": "Thu nghiem 5",
+    "image": "test5.png"
+  }
+]
